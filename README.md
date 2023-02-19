@@ -6,7 +6,7 @@ https://f-droid.org/packages/com.termux/
 จากนั้นเข้าไปในแอพ แล้วพิมพ์ที่ละคำสั่งตามนี้เลยครับ
 (ขั้นตอนหลังจากนี้ หากว่ามีการถามให้ยืนยัน สามารถทำได้โดยกด enter ที่แป้นพิมพ์ครับ)
 
-apt update
+apt update \n
 apt upgrade
 pkg upgrade
 pkg install wget
